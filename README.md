@@ -1,1 +1,1 @@
-Hello,Sunshine💕SWATHY here hope you are doing well i'm BBA Graduate turned to Developer 
+Hello,Sunshine💕SWATHY here hope you are doing well i'm A Frontend Developer from Kerala,Alappuzha and i'm skilled in HTML,CSS,BOOTSTRAP,TAILWIND CSS,MATERIAL UI,CHAKRA UI,JAVASCRIPT,REACT JS,ADOBE XD,GITHUB,BASIC KNOWLEDGE IN PYTHON
