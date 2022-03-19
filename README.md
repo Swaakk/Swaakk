@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **swathykrishna.thayyil@gmail.com**
 
+- ⚡ Fun fact **Describe your ideal day.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -19,10 +21,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/Swathyk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/Swathyk" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaak&show_icons=true&locale=en&layout=compact" alt="swaak" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swaak&show_icons=true&locale=en" alt="swaak" /></p>
-
-
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaak&show_icons=true&locale=en&layout=compact" alt="swaak" /></p>
