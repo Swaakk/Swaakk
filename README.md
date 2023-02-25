@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swathy krishna B</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaak&label=Profile%20views&color=0e75b6&style=flat" alt="swaak" /> </p>
 
